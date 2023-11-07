@@ -1,5 +1,5 @@
 ---
-title: "Data Science With R"
+title: "Data Science With R_"
 author: "Francisco Junior"
 date: "`r format(Sys.time(), '%d/%m/%Y')`"
 output: 
@@ -292,3 +292,5 @@ gridExtra::grid.arrange(gender_plt, driving_license_plt,
                         policy_sales_channel_plt, response_plt,
                         ncol = 2, nrow = 4)
 ```
+
+# Hypothesis validation
